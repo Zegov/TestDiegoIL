@@ -1,4 +1,4 @@
-package com.example.testsermaluc.apiuser;
+package com.sermaluc.prueba.apiuser;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
